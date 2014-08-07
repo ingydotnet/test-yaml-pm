@@ -1,0 +1,29 @@
+=meta: 0.0.1
+
+name: Test-YAML
+version: 0.98
+abstract: Testing Module for YAML Implementations
+homepage: http://yaml.org
+
+license: perl
+copyright: 2001-2014. Ingy döt Net.
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+  homepage: http://ingy.net
+
+requires:
+  perl: 5.8.1
+  Test::Base: 0
+
+devel:
+  git: https://github.com/ingydotnet/yaml-pm
+  bug: https://github.com/ingydotnet/yaml-pm/issues
+  irc: irc.perl.org#yaml
+
+=travis:
+  type: perl
+  irc: irc.perl.org#yaml
