@@ -1,5 +1,5 @@
 package Test::YAML;
-our $VERSION = '0.99';
+our $VERSION = '1.00';
 
 use Test::Base -Base;
 use lib 'lib';

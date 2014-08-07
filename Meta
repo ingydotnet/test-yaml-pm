@@ -1,7 +1,7 @@
 =meta: 0.0.1
 
 name: Test-YAML
-version: 0.99
+version: 1.00
 abstract: Testing Module for YAML Implementations
 homepage: http://yaml.org
 
