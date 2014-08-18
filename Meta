@@ -1,7 +1,7 @@
 =meta: 0.0.2
 
 name: Test-YAML
-version: 1.04
+version: 1.05
 abstract: Testing Module for YAML Implementations
 homepage: http://yaml.org
 language: perl
@@ -23,7 +23,7 @@ devel:
 
 requires:
   perl: 5.8.1
-  Test::Base: 0.74
+  Test::Base: 0.86
 
 =zild:
   test-000: none
