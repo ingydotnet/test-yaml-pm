@@ -1,12 +1,12 @@
 =meta: 0.0.2
 
 name: Test-YAML
-version: 1.05
+version: 1.06
 abstract: Testing Module for YAML Implementations
 homepage: http://yaml.org
 language: perl
 license: perl
-copyright: 2001-2014
+copyright: 2001-2015
 
 author:
   name: Ingy döt Net
@@ -22,7 +22,8 @@ devel:
   irc: irc.perl.org#yaml
 
 requires:
-  perl: 5.8.1
+  # Commented out because we want to use (but not support) on 5.6:
+  # perl: 5.8.1
   Test::Base: 0.86
 
 =zild:
