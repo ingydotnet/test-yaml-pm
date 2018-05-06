@@ -24,7 +24,7 @@ devel:
 requires:
   # Commented out because we want to use (but not support) on 5.6:
   # perl: 5.8.1
-  Test::Base: 0.86
+  Test::Base: 0.89
 
 =zild:
   test-000: none
