@@ -1,12 +1,12 @@
 =meta: 0.0.2
 
 name: Test-YAML
-version: 1.06
+version: 1.07
 abstract: Testing Module for YAML Implementations
 homepage: http://yaml.org
 language: perl
 license: perl
-copyright: 2001-2015
+copyright: 2001-2018
 
 author:
   name: Ingy döt Net
